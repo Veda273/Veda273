@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Veda</h1> <h3 align="center">A Passionate Full Stack Web Developer | Coding Enthusiast</h3> <br/> <img align="right" alt="coding" width="400" height="250" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-- 🔭 I’m currently working as *Open Source Contributor*
+
+- 🔭 I’m currently a **Contributor at GSSOC'24 Extended**
 
 - 🌱 I’m currently learning **Full Stack Development | MERN**
 
