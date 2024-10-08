@@ -1,14 +1,5 @@
 
-<p align="left"> <img src="" alt="Veda273" /> </p>
-
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Vedavalli</h1>
-<h3 align="center">A Passionate Full Stack Web developer | Coding Enthusiast</h3>
-
-<br/>
-
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Veda</h1> <h3 align="center">A Passionate Full Stack Web Developer | Coding Enthusiast</h3> <br/> <img align="right" alt="coding" width="400" height="300" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 - 🔭 I’m currently working as *Open Source Contributor*
 
 - 🌱 I’m currently learning **Full Stack Development | MERN**
