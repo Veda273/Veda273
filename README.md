@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="" alt="Veda273" /> </p>
 
-![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
+![Radhika Malpani (2)]()
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Vedavalli</h1>
 <h3 align="center">A Passionate Full Stack Web developer | Coding Enthusiast</h3>
