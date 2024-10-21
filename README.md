@@ -44,10 +44,11 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-[![An image of @veda273's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veda273)](https://holopin.io/@veda273)
+
 
 ### 📫 **Let's Connect!**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vedavalli-parimi/)](https://www.linkedin.com/in/vedavalli-parimi/)
 
 
+[![An image of @veda273's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/veda273)](https://holopin.io/@veda273)
